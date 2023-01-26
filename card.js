@@ -112,7 +112,7 @@ console.log(Game);
 
 
 
-
+////////for unit testing still working/////
 function allCards(suits,values){                                                                                              
     if(suits != suits){                                                                                      
         throw new Error("Suit must be " + 'ace', 'diamond' ,'heart' ,'spade')
