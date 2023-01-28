@@ -3,7 +3,7 @@ alert("lets play game of war! here the rules there are two players.The player wi
 
 ///here is my suit and card values  variables 
 const suits = ["ace", "heart", "diamond", "spade"]                                                                           
-const values = [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]                                                  
+const values = [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, ]                                                  
 ////////here are variables to help with player and player2 to help with score/////
 let user1score = 26;                                                                                        
 let user2score = 26;                                                                                        
